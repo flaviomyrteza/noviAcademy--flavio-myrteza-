@@ -1,6 +1,6 @@
 namespace WorldRank;
 
-public class Player
+public class Player : IPlayer , IWalletOwner
 {
 	public Guid Id { get; }
 	public string Name { get; }
@@ -25,4 +25,21 @@ public class Player
 
 	public override string ToString() =>
 			$"[{Id}] {Name} - Score: {Score}";
+
+    private readonly List<Wallet> _wallets = new();
+
+    public IReadOnlyCollection<Wallet> Wallets => _wallets.AsReadOnly();
+
+    public void AttachWallet(Wallet wallet)
+    {
+        ArgumentNullException.ThrowIfNull(wallet);
+
+        if (_wallets.Any(w => w.Currency == wallet.Currency))
+            throw new InvalidOperationException(
+                $"Player '{Name}' already has a wallet in {wallet.Currency}.");
+
+        _wallets.Add(wallet);
+    }
+
 }
+
