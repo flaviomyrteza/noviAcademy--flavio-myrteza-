@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\WorldRank.Domain\WorldRank.Domain.csproj" />
     <ProjectReference Include="..\WorldRank.Application\WorldRank.Application.csproj" />
+	 <ProjectReference Include="..\WorldRankDbContext\WorldRankDbContext.csproj"/>
   </ItemGroup>
 
   <ItemGroup>

@@ -3,4 +3,5 @@
   <Project Path="WorldRank.Console/WorldRank.Console.csproj" />
   <Project Path="WorldRank.Domain/WorldRank.Domain.csproj" />
   <Project Path="WorldRank.Infrastructure/WorldRank.Infrastructure.csproj" />
+  <Project Path="WorldRankDbContext/WorldRankDbContext.csproj" Id="ea6553a8-7530-4120-99d1-0d68be5d2760" />
 </Solution>
