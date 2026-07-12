@@ -2,9 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using NLog.Extensions.Logging;
-using WorldRanInfastracture.Persistence;
 using WorldRank.Application;
 using WorldRank.Infrastructure;
+using WorldRankDbContext;
 
 namespace WorldRank.Console;
 
@@ -22,7 +22,7 @@ public static class DependencyInjection
             builder.AddNLog();
         });
 
-        services.AddDbContext<WorldRankDbContext>(options =>
+        services.AddDbContext<WorldRankDbContext.WorldRankDbContext>(options =>
             options.UseSqlServer("Server=localhost;Database=WorldRank;Integrated Security=true;TrustServerCertificate=true"));
 
         services.AddApplication();

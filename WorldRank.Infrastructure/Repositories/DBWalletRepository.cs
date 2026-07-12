@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
-using WorldRanInfastracture.Persistence;
+﻿using Microsoft.Extensions.Logging;
 using WorldRank.Application.Interfaces;
 using WorldRank.Domain.Entities;
 using WorldRank.Domain.Enums;
@@ -10,10 +8,10 @@ namespace WorldRank.Infrastructure.Repositories;
 
 public class DBWalletRepository : IWalletRepository
 {
-    private readonly WorldRankDbContext _context;
+    private readonly WorldRankDbContext.WorldRankDbContext _context;
     private readonly ILogger<DBWalletRepository> _logger;
 
-    public DBWalletRepository(WorldRankDbContext context, ILogger<DBWalletRepository> logger)
+    public DBWalletRepository(WorldRankDbContext.WorldRankDbContext context, ILogger<DBWalletRepository> logger)
     {
         _context = context;
         _logger = logger;
@@ -35,7 +33,7 @@ public class DBWalletRepository : IWalletRepository
 
     public List<Wallet> GetAllWalletsByPlayerId(int playerId)
     {
-        return _context.Wallets.AsNoTracking().Where(item => item.PlayerId == playerId).ToList();
+        return _context.Wallets.Where(item => item.PlayerId == playerId).ToList();
     }
 
     public Wallet GetWallet(int playerId, Currency currency)

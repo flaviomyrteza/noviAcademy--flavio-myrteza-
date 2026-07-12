@@ -1,7 +1,5 @@
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using NLog;
-using WorldRanInfastracture.Persistence;
 using WorldRank.Application.Services;
 using WorldRank.Console;
 
@@ -12,12 +10,6 @@ var services = new ServiceCollection();
 services.AddWorldRank();
 
 using var provider = services.BuildServiceProvider();
-
-using (var scope = provider.CreateScope())
-{
-    var context = scope.ServiceProvider.GetRequiredService<WorldRankDbContext>();
-    context.Database.Migrate();
-}
 
 var playerService = provider.GetRequiredService<PlayerService>();
 var walletService = provider.GetRequiredService<WalletService>();
