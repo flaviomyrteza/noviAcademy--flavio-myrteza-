@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
+using WorldRanInfastracture.Persistence;
 using WorldRank.Application.Interfaces;
 using WorldRank.Domain.Entities;
 
@@ -6,10 +8,10 @@ namespace WorldRank.Infrastructure.Repositories;
 
 public class DBPlayerRepository : IPlayerRepository
 {
-    private readonly WorldRankDbContext.WorldRankDbContext _context;
+    private readonly WorldRankDbContext _context;
     private readonly ILogger<DBPlayerRepository> _logger;
 
-    public DBPlayerRepository(WorldRankDbContext.WorldRankDbContext context, ILogger<DBPlayerRepository> logger)
+    public DBPlayerRepository(WorldRankDbContext context, ILogger<DBPlayerRepository> logger)
     {
         _context = context;
         _logger = logger;
@@ -24,12 +26,12 @@ public class DBPlayerRepository : IPlayerRepository
 
     public IEnumerable<Player> GetAllPlayers()
     {
-        return _context.Players.ToList();
+        return _context.Players.AsNoTracking().ToList();
     }
 
     public void DeletePlayer(int playerId)
     {
-        var player = _context.Players.FirstOrDefault(item => item.Id == playerId);
+        var player = _context.Players.AsNoTracking().FirstOrDefault(item => item.Id == playerId);
 
         if (player is null)
         {
@@ -51,6 +53,7 @@ public class DBPlayerRepository : IPlayerRepository
     {
         
         return _context.Players
+            .AsNoTracking()
             .ToList()
             .GroupBy(player => player.Score)
             .OrderByDescending(group => group.Key);

@@ -24,9 +24,5 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-
-	<ItemGroup>
-		<ProjectReference Include="..\WorldRankDbContext\WorldRankDbContext.csproj" />
-	</ItemGroup>
 	
 </Project>
