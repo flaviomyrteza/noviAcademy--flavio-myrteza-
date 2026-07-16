@@ -1,0 +1,79 @@
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.deps.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.runtimeconfig.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfo.cs
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.sourcelink.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.16CF7B47.Up2Date
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\refint\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.genruntimeconfig.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Infrastructure\obj\Debug\net10.0\ref\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.deps.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.runtimeconfig.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfo.cs
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.sourcelink.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.16CF7B47.Up2Date
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\refint\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.genruntimeconfig.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Infrastructure\obj\Debug\net10.0\ref\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.deps.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.runtimeconfig.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfo.cs
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.16CF7B47.Up2Date
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\refint\NoviCode.Infrastructure.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.genruntimeconfig.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Infrastructure\obj\Debug\net10.0\ref\NoviCode.Infrastructure.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.deps.json
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.runtimeconfig.json
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\bin\Debug\net10.0\NoviCode.Application.pdb
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.AssemblyInfo.cs
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.sourcelink.json
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.16CF7B47.Up2Date
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\refint\NoviCode.Infrastructure.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.pdb
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\NoviCode.Infrastructure.genruntimeconfig.cache
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Infrastructure\obj\Debug\net10.0\ref\NoviCode.Infrastructure.dll

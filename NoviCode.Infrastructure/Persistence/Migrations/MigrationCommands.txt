@@ -1,0 +1,3 @@
+﻿Add-Migration InitialCreate -Context AppDbContext -OutputDir "Persistence/Migrations" -Project "NoviCode.Infrastructure" -StartupProject "NoviCode.Infrastructure"
+
+Update-Database -Project "NoviCode.Infrastructure" -StartupProject "NoviCode.Infrastructure"
