@@ -1,0 +1,47 @@
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.deps.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfoInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfo.cs
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.sourcelink.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\refint\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\src\NoviCode.Domain\obj\Debug\net10.0\ref\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.deps.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfoInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfo.cs
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.sourcelink.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\refint\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\capstone project\Day 7\NoviCode.Domain\obj\Debug\net10.0\ref\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.deps.json
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfoInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfo.cs
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\refint\NoviCode.Domain.dll
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\jgerogiannis\Downloads\sb novi academy\Day 07\Project_Day7\NoviCode.Domain\obj\Debug\net10.0\ref\NoviCode.Domain.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.deps.json
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\bin\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.AssemblyInfo.cs
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.sourcelink.json
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\refint\NoviCode.Domain.dll
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\NoviCode.Domain.pdb
+C:\Users\flavi\source\repos\noviAcademy--flavio-myrteza-\NoviCode.Domain\obj\Debug\net10.0\ref\NoviCode.Domain.dll

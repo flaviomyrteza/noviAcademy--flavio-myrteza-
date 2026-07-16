@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUfyVk1Nj7o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jgerogiannis\\Downloads\\sb novi academy\\capstone project\\src\\NoviCode.Gateway\\NoviCode.Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\autofac\\9.3.0\\autofac.9.3.0.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\mediatr.extensions.autofac.dependencyinjection\\12.3.0\\mediatr.extensions.autofac.dependencyinjection.12.3.0.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.9\\microsoft.extensions.configuration.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.9\\microsoft.extensions.configuration.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.9\\microsoft.extensions.configuration.binder.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.9\\microsoft.extensions.dependencyinjection.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.9\\microsoft.extensions.diagnostics.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.9\\microsoft.extensions.diagnostics.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.http\\10.0.9\\microsoft.extensions.http.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.logging\\10.0.9\\microsoft.extensions.logging.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.9\\microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.options\\10.0.9\\microsoft.extensions.options.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.9\\microsoft.extensions.options.configurationextensions.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.9\\microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\jgerogiannis\\.nuget\\packages\\quartz\\3.13.1\\quartz.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

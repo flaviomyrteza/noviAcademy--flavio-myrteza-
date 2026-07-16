@@ -1,0 +1,35 @@
+2026-07-15 15:41:39.3309 | INFO | Quartz.Core.SchedulerSignalerImpl | Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2026-07-15 15:41:39.3566 | INFO | Quartz.Core.QuartzScheduler | Quartz Scheduler created 
+2026-07-15 15:41:39.3642 | INFO | Quartz.Core.QuartzScheduler | JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2026-07-15 15:41:39.3642 | INFO | Quartz.Simpl.RAMJobStore | RAMJobStore initialized. 
+2026-07-15 15:41:39.3642 | INFO | Quartz.Impl.StdSchedulerFactory | Quartz Scheduler 3.13.1.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized 
+2026-07-15 15:41:39.3796 | INFO | Quartz.Impl.StdSchedulerFactory | Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10 
+2026-07-15 15:41:39.3796 | INFO | Quartz.Impl.StdSchedulerFactory | Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False 
+2026-07-15 15:41:39.4164 | INFO | Quartz.ContainerConfigurationProcessor | Adding 1 jobs, 1 triggers. 
+2026-07-15 15:41:39.4164 | INFO | Quartz.ContainerConfigurationProcessor | Adding job: DEFAULT.DataFetchJob 
+2026-07-15 15:41:39.8533 | INFO | Quartz.Core.QuartzScheduler | Scheduler QuartzScheduler_$_NON_CLUSTERED started. 
+2026-07-15 15:41:50.3230 | INFO | NoviCode.DataFetchJob | DataFetchJob started 
+2026-07-15 15:44:27.1422 | INFO | Quartz.Core.SchedulerSignalerImpl | Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2026-07-15 15:44:27.1600 | INFO | Quartz.Core.QuartzScheduler | Quartz Scheduler created 
+2026-07-15 15:44:27.1600 | INFO | Quartz.Core.QuartzScheduler | JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2026-07-15 15:44:27.1600 | INFO | Quartz.Simpl.RAMJobStore | RAMJobStore initialized. 
+2026-07-15 15:44:27.1600 | INFO | Quartz.Impl.StdSchedulerFactory | Quartz Scheduler 3.13.1.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized 
+2026-07-15 15:44:27.1600 | INFO | Quartz.Impl.StdSchedulerFactory | Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10 
+2026-07-15 15:44:27.1600 | INFO | Quartz.Impl.StdSchedulerFactory | Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False 
+2026-07-15 15:44:27.2068 | INFO | Quartz.ContainerConfigurationProcessor | Adding 0 jobs, 0 triggers. 
+2026-07-15 15:44:27.4974 | INFO | Quartz.Core.QuartzScheduler | Scheduler QuartzScheduler_$_NON_CLUSTERED started. 
+2026-07-15 15:48:29.8717 | INFO | Quartz.Core.SchedulerSignalerImpl | Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2026-07-15 15:48:29.8882 | INFO | Quartz.Core.QuartzScheduler | Quartz Scheduler created 
+2026-07-15 15:48:29.8882 | INFO | Quartz.Core.QuartzScheduler | JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2026-07-15 15:48:29.8882 | INFO | Quartz.Simpl.RAMJobStore | RAMJobStore initialized. 
+2026-07-15 15:48:29.8882 | INFO | Quartz.Impl.StdSchedulerFactory | Quartz Scheduler 3.13.1.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized 
+2026-07-15 15:48:29.8882 | INFO | Quartz.Impl.StdSchedulerFactory | Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10 
+2026-07-15 15:48:29.8882 | INFO | Quartz.Impl.StdSchedulerFactory | Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False 
+2026-07-15 15:48:29.9175 | INFO | Quartz.ContainerConfigurationProcessor | Adding 0 jobs, 0 triggers. 
+2026-07-15 15:48:30.2099 | INFO | Quartz.Core.QuartzScheduler | Scheduler QuartzScheduler_$_NON_CLUSTERED started. 
+2026-07-16 09:51:09.4752 | INFO | NoviCode.Decorators.LoggingRequestHandlerDecorator | MediatR → CreatePlayerCommand {"Name":"oresti", "Score":5} 
+2026-07-16 09:51:11.1479 | INFO | NoviCode.Decorators.LoggingRequestHandlerDecorator | MediatR ← CreatePlayerCommand handled in 1605 ms 
+2026-07-16 09:51:13.1456 | INFO | NoviCode.Decorators.LoggingRequestHandlerDecorator | MediatR → CreatePlayerCommand {"Name":"oresti", "Score":5} 
+2026-07-16 09:51:13.2357 | INFO | NoviCode.Decorators.LoggingRequestHandlerDecorator | MediatR ← CreatePlayerCommand handled in 77 ms 
+2026-07-16 09:51:16.5881 | INFO | NoviCode.Decorators.LoggingRequestHandlerDecorator | MediatR → CreatePlayerCommand {"Name":"oresti", "Score":5} 
+2026-07-16 09:51:16.6252 | INFO | NoviCode.Decorators.LoggingRequestHandlerDecorator | MediatR ← CreatePlayerCommand handled in 34 ms 
